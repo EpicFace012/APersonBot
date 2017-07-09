@@ -2,7 +2,7 @@ var Discordie = require("discordie");
 var client = new Discordie();
 
 client.connect({
-  // replace this sample token
+  // token
   token: "MzMzNzA3MTk4NzU0NDU1NTcz.DEQkkA.BBWYYrA0n6prRpS04u5F3FRnCSA"
 });
 
